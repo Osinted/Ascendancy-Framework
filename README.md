@@ -7,9 +7,9 @@ Ascendancy Framework is a lightweight, open-source framework written in C++ that
 If you're looking for a powerful, lightweight framework that can handle the demands of modern server development, Ascendancy Framework is the perfect choice. With its intuitive API, flexible architecture, and comprehensive documentation, Ascendancy Framework makes it easy to build fast, reliable, and scalable servers in less time than ever before.
 
 # Features
- *Lightweight and efficient: Ascendancy Framework is designed to be fast, lean, and efficient, with a minimal footprint that minimizes resource usage and maximizes performance.
+ * Lightweight and efficient: Ascendancy Framework is designed to be fast, lean, and efficient, with a minimal footprint that minimizes resource usage and maximizes performance.
 
-* Modular and extensible: Ascendancy Framework provides a modular, extensible architecture that makes it easy to customize and extend the framework to meet your specific needs.
+  * Modular and extensible: Ascendancy Framework provides a modular, extensible architecture that makes it easy to customize and extend the framework to meet your specific needs.
 
  * Ruby on Rails support: Ascendancy Framework includes support for Ruby on Rails, enabling you to build powerful web applications using your favorite framework.
 
